@@ -1,6 +1,7 @@
 # CBinaryFile
 Make, Update, Delete, Search a Binary File in C
 
+## Challenge: Create a menu system in C that can be run in UNIX that is contained inside one singular C file.
 ## IDE Used: CLion
 A simple menu system that allows the user to create a Binary File.
 
